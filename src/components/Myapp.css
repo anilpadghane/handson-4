@@ -1,0 +1,49 @@
+body{
+    background-color: antiquewhite;
+}
+.navbar{
+    background-color: blue;
+}
+.navbar-brand{
+    color: whitesmoke;
+    font-size: 2vw;
+    font-weight: 700;
+    font-style: italic;
+    font-family:cursive;
+}
+.navbar-brand:hover{
+    color: orangered;
+}
+
+button{
+    margin-top: 10px;
+    float: right;
+    color: darkblue;
+    background-color: aqua;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: rebeccapurple;
+    color: white;
+}
+caption{
+    color: darkblue;
+    font-size: 2vw;
+    font-weight: 700;
+}
+
+.table{
+    background-color: white;
+    color: black;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+    color: darkblue;
+    font-weight: 700;
+
+}
+.edit{
+    color: blue;
+    text-decoration: underline;
+}
